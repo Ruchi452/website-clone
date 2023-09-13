@@ -1,0 +1,244 @@
+* {
+  margin: 0;
+  border: border-box;
+}
+.navbar {
+  background-color: whitesmoke;
+
+  padding: 0px 20px 0 4px;
+  height: 80px;
+  width: 99%;
+  font-size: 22px;
+  display: flex;
+  text-decoration: none;
+  justify-content: space-between;
+  align-items: center;
+  /* position: fixed; */
+}
+.logo {
+  margin-left: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  line-height: 25px;
+  letter-spacing: 0.25px;
+}
+.line-1 {
+  color: black;
+  padding-left: 20px;
+}
+.line-2 {
+  color: orange;
+  font-size: 25px;
+}
+.pannel-ops {
+  width: 500px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  height: 400px;
+  color: #262626;
+  display: flex;
+  justify-content: space-between;
+  background-size: cover;
+}
+
+.text {
+  width: 50%;
+  color: #262626;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 30px;
+  padding-top: 100px;
+  padding-left: 50px;
+  font-weight: bold;
+}
+.image {
+  height: 400px;
+  width: 50%;
+  background-image: url(apna.jpg);
+  background-size: cover;
+}
+.sec-211 {
+  display: inline-block;
+  color: #6674cc;
+}
+
+#sec-22 {
+  font-size: 20px;
+  font-weight: lighter;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+#sec-23 {
+  font-size: 25px;
+  color: #4f4545;
+  font-weight: lighter;
+  font-family: sans-serif;
+
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.batch-info{
+  height: 400px;
+  text-align: center;
+  line-height: 60px;
+  background-color: aliceblue;
+  padding-top: 80px;
+  
+  
+}
+.text1{
+  color: #6674cc;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  font-size: 25px;
+}
+.text2{
+  font-weight: 900;
+  font-size: 30px;
+}
+.text3{
+  height: 100px;
+  font-weight: 200;
+  color: rgb(57, 56, 56);
+}
+.box-batch{
+  height: 6 0px;
+  width: 200px;
+  font-size: 30px;
+  margin-left: 500px;
+color: white;
+background-color: #03a9f4;
+border: 1px solid #6674cc;
+border-radius: 15px;
+}
+.image-section4{
+  height: 650px;
+  background-color: aliceblue;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 25px;
+  font-weight: 800;
+}
+.img-sec41{
+  height: 50px;
+  margin-bottom: 10px;
+}
+.img-sec42{
+  height: 600px;
+  margin-top: 20px;
+  background-image: url(join-image.png);
+  background-size: cover;
+  
+}
+
+
+.join{
+  height: 250px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 900;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(243, 243, 250);
+  margin: 0px 10px 0 10px;
+}
+.box31{
+font-size: 30px;
+}
+.box32{
+  color: #f44336;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  
+}
+.box330{
+  display: flex;
+  height: 100px;
+  margin-top: 20px;
+  
+}
+.box311{
+  width: 33%;
+  color: #f44336;
+}
+.box322{
+  width: 33%;
+  color: #e91e63;
+}
+.box333{
+  width: 33%;
+  color: #03a9f4;
+}
+.footer {
+  height: 150px;
+  color: #262626;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.box1 {
+  font-size: large;
+  width: 20%;
+  /* margin-top: 10%; */
+  /* margin-bottom: 300%; */
+  font-size: 15px;
+  padding-left: 5px;
+  padding-right: 20px;
+  /* letter-spacing: 3px; */
+  font-family: "Arial Narrow Bold", sans-serif;
+}
+.logo-1 {
+  margin-left: 0px;
+  align-items: flex-start;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  line-height: 25px;
+  letter-spacing: 0.25px;
+  padding-left: 40px;
+  font-size: 30px;
+  /* padding-left: 40px; */
+  text-align: left;
+}
+.box2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 25px;
+}
+.box3 {
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 25px;
+}
+.box4 {
+  padding-left: 20px;
+  padding-right: 40px;
+  line-height: 25px;
+}
+p {
+  color: #0c0101;
+  font-size: 20px;
+  font-weight: 900;
+}
+a {
+  text-align: right;
+}
+.f22 {
+  height: 50px;
+  text-align: center;
+  margin-bottom: 0px;
+}
